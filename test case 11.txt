@@ -1,0 +1,10 @@
+Sample case of problem 11 = maximum sum of sub array of size 'k'
+
+input:   {2,5,3,8,5,1,6}
+         k=3
+output:  sum=16
+
+input:   {2,5,6,4,3}
+         k=3 
+output:  sum=15
+ 

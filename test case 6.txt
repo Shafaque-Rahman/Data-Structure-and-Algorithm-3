@@ -1,0 +1,12 @@
+Sample case of problem 6
+
+input:
+      lock[]={$,#,&,@,*}
+      key[]={&,*,#,$,@}
+output:
+       lock=key
+        $  =  $
+        #  =  #
+        &  =  &
+        @  =  @
+        *  =  * 

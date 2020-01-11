@@ -1,0 +1,10 @@
+Sample case of problem 4
+
+1.          input 
+     arr[]={900,930,1010,1200,500}                  
+     dep[]={910,1020,1100,1250,1530}
+      
+     output=minimum of 2 platform is needed at a time
+
+note:
+ (use 900 to represent 9:00 and so on for hour and minute)

@@ -1,0 +1,7 @@
+Sample case of problem 12 = search value in sorted rotated array
+
+input:   {5,3,8,6,9,2}
+         rotate by 2 element
+         key=9 (for searching)
+
+output:  9 is at 4th position of array

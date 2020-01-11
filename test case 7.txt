@@ -1,0 +1,7 @@
+Sample case of problem 7=represent array of index a[i] with a[a[i]]
+
+input={3,2,0,1}
+output={1,0,3,2}
+
+input={3,0,1,2,4}
+output={2,3,0,1,4}

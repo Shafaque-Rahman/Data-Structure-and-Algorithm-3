@@ -1,0 +1,7 @@
+Sample case of problem 2
+
+1.     input={1,2,3}
+       output=8 is sum of all pair differ by 1 bit
+
+2.     input={0,1,2,3}
+       output=16 is sum of all pair differ by 1 bit
